@@ -16,7 +16,7 @@ public class ProyectoGuitHub {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        for (int i = 0; i < 10000; i++) {
+        for (int i = 0; i < 100000; i++) {
             System.out.println("jajahola");
             
         }
