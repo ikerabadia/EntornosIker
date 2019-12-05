@@ -26,6 +26,16 @@ public class QuijoteIker {
         apariciones = cuentaPalabras(palabra, fichero);
         System.out.println("El numero de veces que aparece la palabra introducida es de: " + apariciones);
     }
+    public static void IKERtONTO(String[] args) {
+        int apariciones = 0;
+        String palabra;
+        palabra = palabra();
+        String fichero = "Pedro hola Hola holas ahola Garcia";   //variable con el fichero
+
+        //metodo
+        apariciones = cuentaPalabras(palabra, fichero);
+        System.out.println("El numero de veces que aparece la palabra introducida es de: " + apariciones);
+    }
 
     public static int cuentaPalabras(String palabra, String fichero) {
         int apariciones = 0;
