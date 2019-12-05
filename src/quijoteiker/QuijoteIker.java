@@ -17,6 +17,7 @@ public class QuijoteIker {
     static Scanner teclado = new Scanner(System.in,"ISO-8859-1");    
 
     public static void main(String[] args) {
+        System.out.println("GitHub apesta");
         int apariciones = 0;
         String palabra;
         palabra = palabra();
