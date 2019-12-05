@@ -26,7 +26,7 @@ public class QuijoteIker {
         apariciones = cuentaPalabras(palabra, fichero);
         System.out.println("El numero de veces que aparece la palabra introducida es de: " + apariciones);
     }
-    public static void IKERtONTO(String[] args) {
+    public static void animehentai(String[] args) {
         int apariciones = 0;
         String palabra;
         palabra = palabra();
