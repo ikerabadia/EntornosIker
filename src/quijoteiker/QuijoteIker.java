@@ -48,7 +48,11 @@ public class QuijoteIker {
             System.out.println("Por favor que no tenga ni simbolos ni numeros.");
             cadena = teclado.next();
         }
-        return cadena;        
+        
+        System.out.println("dsfgsd");
+        return cadena;    
+        
+        
     }
     
 }
